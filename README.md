@@ -1,5 +1,6 @@
 ## Hi there 👋
-  - ReadMe is currently under maintenance!
+  - Cian's ReadMe is currently under maintenance!
+  - Coming soon!
 <!--
 **cianmacdonald1/cianmacdonald1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
