@@ -1,4 +1,4 @@
-## Hi there 👋
+## Word for word
   - Cian's ReadMe is currently under maintenance!
   - Coming soon!
 <!--
