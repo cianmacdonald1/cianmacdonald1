@@ -1,5 +1,4 @@
-## About me -
-  - Cian's ReadMe is currently under maintenance!
+  - 3rd Year Student Software Developer @ Glasgow Caledonian University
   - Cian's Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
