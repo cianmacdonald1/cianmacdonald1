@@ -1,4 +1,4 @@
-  - 3rd Year Student Software Developer @ Glasgow Caledonian University
+  - 4th Year Student Software Developer @ Glasgow Caledonian University
   - Technologies I'm familiar with:   
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
